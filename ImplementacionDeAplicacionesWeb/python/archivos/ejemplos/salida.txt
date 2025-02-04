@@ -1,0 +1,2 @@
+esta es una linea de texto.
+Otra linea de texto.esta linea se agrega al final del archivo.

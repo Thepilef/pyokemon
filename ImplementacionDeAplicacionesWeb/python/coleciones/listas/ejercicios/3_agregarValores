@@ -1,0 +1,8 @@
+numeros = [10, 20, 30]
+print(numeros)
+#aumenta un solo valor
+numeros.append(40)
+print(numeros)
+#aumentar varios valores
+numeros.extend([50, 60])
+print(numeros)
